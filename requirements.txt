@@ -2,3 +2,6 @@ pandas
 ortools
 matplotlib
 scipy
+folium
+openrouteservice
+osmnx
